@@ -13,4 +13,6 @@ Planning only: no published releases yet.
 
 [GPL 3.0](https://opensource.org/licenses/gpl-3.0.html)
 
-## Documentation  [https://neelsmith.github.io/aldtparser/](https://neelsmith.github.io/aldtparser/)
+## Documentation
+
+https://neelsmith.github.io/aldtparser/](https://neelsmith.github.io/aldtparser/)
