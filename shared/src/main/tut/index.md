@@ -6,4 +6,4 @@ layout: page
 User documentation to be developed here.
 
 
-[API documentation](api/edu/holycross/shot/aldt/index.html).
+[API documentation](https://neelsmith.github.io/altdtparser/api/edu/holycross/shot/aldt/index.html).
