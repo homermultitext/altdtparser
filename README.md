@@ -15,4 +15,4 @@ Planning only: no published releases yet.
 
 ## Documentation
 
-https://neelsmith.github.io/aldtparser/](https://neelsmith.github.io/aldtparser/)
+[https://neelsmith.github.io/aldtparser/](https://neelsmith.github.io/aldtparser/)
