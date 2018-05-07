@@ -3,10 +3,8 @@ title: ALDT parser
 layout: page
 ---
 
-User documentation to be developed here.
-
-
-[API documentation](https://neelsmith.github.io/aldtparser/api/edu/holycross/shot/aldt/index.html).
+-  User tutorial to be developed here.
+-  [API documentation](https://neelsmith.github.io/aldtparser/api/edu/holycross/shot/aldt/index.html).
 
 
 ## Overview
