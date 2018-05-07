@@ -10,7 +10,7 @@ tagline:          'Parse syntactic ALDT data'
 description:      'Work with syntactic treebanks serialized in the scheme of the Ancient Langauge Dependency Treebank'
 
 
-baseurl: '/aldtparser/'
+baseurl: '/aldt/'
 
 
 author:
