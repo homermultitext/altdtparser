@@ -1,2 +1,7 @@
-# altdtparser
-Parser syntactic data in treebanks serialized in the schema of the Ancient Language Dependency Treebank
+# `altdtparser`
+
+
+Parse syntactic data in treebanks serialized in the schema of the Ancient Language Dependency Treebank
+
+
+Documentation :  
