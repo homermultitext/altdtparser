@@ -1,0 +1,23 @@
+
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ALDT parser
+tagline:          'Parse syntactic ALDT data'
+description:      'Work with syntactic treebanks serialized in the scheme of the Ancient Langauge Dependency Treebank'
+
+
+baseurl: '/aldtparser/'
+
+
+author:
+  name:           'Neel Smith'
+
+
+links:
+  - title:  Github repository
+    url:  https://github.com/neelsmith/aldtparser
+    external: true
